@@ -1,0 +1,73 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  background: rgb(200, 233, 200);
+}
+img {
+  scale: 0.6;
+  border-radius: 50%;
+  display: inline-block;
+}
+.profile-container {
+  display: flex;
+}
+.description {
+  display: inline-block;
+  margin-top: 90px;
+}
+a {
+  padding-left: 50px;
+}
+.about {
+  padding-left: 0;
+}
+.about-section {
+}
+/* .descriptions {
+  display: flex;
+} */
+.description-about-me {
+  width: 400px;
+  margin-left: 370px;
+}
+.who-i-am {
+  margin-left: 470px;
+  padding-left: 50px;
+}
+.js-logo {
+  max-width: 100%;
+  max-height: 100%;
+
+  scale: 0.3;
+  display: inline-block;
+}
+.css-logo {
+  max-width: 100%;
+  max-height: 100%;
+  scale: 0.3;
+  display: inline-block;
+}
+.html-logo {
+  max-width: 100%;
+  max-height: 100%;
+  scale: 0.3;
+  display: inline-block;
+}
+.tools-i-use {
+  display: flex;
+  width: 200px;
+  height: 200px;
+  margin-left: 300px;
+}
+.tools {
+  margin-top: 70px;
+  margin-left: 500px;
+}
+.contacts-section {
+  display: flex;
+  margin-left: 350px;
+}
+.email {
+  padding-left: 100px;
+}
